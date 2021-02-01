@@ -15,3 +15,8 @@ A currency converter is software code that is designed to convert one currency i
 2: Select a currency type
 
 3: Click the convert button to convert the amount
+
+
+**Langauges used**:
+
+HTML/CSS/JS
