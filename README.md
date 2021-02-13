@@ -10,7 +10,7 @@ A currency converter is software code that is designed to convert one currency i
 
 **How it works**:
 
-1: Insert the amount.
+1: Insert the amount
 
 2: Select a currency type
 
